@@ -35,5 +35,5 @@ If you need a site or product built by the person who designs it, I reply within
 
 - 🌐 [kevinvh.xyz](https://kevinvh.xyz)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-van-haesendonck-82a6a7202)
-- 🐦 [X](https://x.com/KevinVanHaesen1)
+- 🐦 [X](https://x.com/Kevdevui)
 - ✉️ kevinekke@gmail.com
