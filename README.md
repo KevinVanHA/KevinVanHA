@@ -14,7 +14,7 @@ I work in English, Spanish and Dutch.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Traza**](https://traza.cafe) | Coffee tasting-journal app with a social layer (TestFlight beta) | Flutter, Firebase |
+| [**Traza**](https://traza.cafe) | Coffee tasting-journal app with a social layer (Appstore and Playstore) | Flutter, Firebase |
 | **EVH Renovatie** | Site for a Belgian windows and doors installer: 9 service pages, filterable portfolio, statically prerendered | Next.js, React |
 | **QMP Cars** | Cinematic storefront for a used-car dealer, with an admin panel to manage listings, photos and prices | Next.js, Supabase |
 
